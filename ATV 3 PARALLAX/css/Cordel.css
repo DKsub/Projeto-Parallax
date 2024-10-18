@@ -1,0 +1,124 @@
+#Parte1{
+    background-image: url(/Imagens/Fundo.jpg);
+     min-height: 400px;
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+     text-align: center;
+     color: white;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     font-family: 'Sriracha', sans-serif;
+ }
+
+
+
+#Parte2{
+  
+    min-height: 400px;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Sriracha', sans-serif;
+}
+#Parte3{
+    background-image: url(/Imagens/Fundo.jpg);
+     min-height: 400px;
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+     text-align: center;
+    
+     color: white;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     font-family: 'Sriracha', sans-serif
+ }
+
+#parte4{
+     min-height: 400px;
+     background-repeat:no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+     
+     text-align: center;
+     color: rgb(0, 0, 0);
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     font-family: 'Sriracha', sans-serif
+ }
+ #parte5{
+    background-image: url(/Imagens/Fundo2.jpg);
+    min-height: 400px;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Sriracha', sans-serif
+}
+#parte6{
+    min-height: 400px;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    
+    text-align: center;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Sriracha', sans-serif
+}
+#parte7{
+    background-image: url(/Imagens/Fundo2.jpg);
+    min-height: 400px;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Passion One', sans-serif;
+}
+#Titulo{
+  
+    padding: 25px;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    font-family: 'Passion One', sans-serif;
+}
+p{
+font-size: 1.1em;
+}
